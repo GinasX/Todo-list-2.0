@@ -1,0 +1,5 @@
+{
+  "name": "Todo List 2.0",
+  "description": "A minimalist black and white todo list application. Users can add, edit, and complete tasks.",
+  "requestFramePermissions": []
+}
